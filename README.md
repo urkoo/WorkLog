@@ -1,7 +1,7 @@
 # WorkLog
 Aplikacija, ki bo omogočala beleženje in ogled delovnega časa v nekem podjetju.
 
-url: osredkar.atwebpages.com/work-log
+url: osredkar.atwebpages.com/WorkLog
 
 Dostop do admin page:
 username: admin 
