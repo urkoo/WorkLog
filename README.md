@@ -1,4 +1,6 @@
 # WorkLog
+Avtor: Uroš Osredkar, 35190009
+
 Aplikacija, ki bo omogočala beleženje in ogled delovnega časa v nekem podjetju.
 
 url: osredkar.atwebpages.com/WorkLog
